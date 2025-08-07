@@ -6,7 +6,7 @@ export let PROXY_SECRET = 'Easy-Reverse-Proxy'; // 代理密钥
 // 代理
 export let PROXIES: Proxy[] = [
     {
-        domain: 'easy-reverse-proxy-omega.vercel.app',
+        domain: 'youtube.feijichang.me',
         url: 'https://www.youtube.com/',
         enable: true
     }
