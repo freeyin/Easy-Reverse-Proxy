@@ -7,7 +7,7 @@ export let PROXY_SECRET = 'Easy-Reverse-Proxy'; // 代理密钥
 export let PROXIES: Proxy[] = [
     {
         domain: 'easy-reverse-proxy-omega.vercel.app',
-        url: 'https://www.google.com.hk/',
+        url: 'https://www.youtube.com/',
         enable: true
     }
 ];
