@@ -7,7 +7,7 @@ export let PROXY_SECRET = 'Easy-Reverse-Proxy'; // 代理密钥
 export let PROXIES: Proxy[] = [
     {
         domain: 'miss.feijichang.me',
-        url: 'https://missav.ws/',
+        url: 'https://missav123.com/',
         enable: true
     }
 ];
